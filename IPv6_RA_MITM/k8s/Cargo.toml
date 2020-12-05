@@ -1,0 +1,13 @@
+[package]
+name = "ipv6mitm"
+version = "0.1.0"
+authors = ["Etienne Champetier <champetier.etienne@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+smoltcp = "0.6"
+log = "0.4.8"
+env_logger = "0.5"
+getopts = "0.2"
+mac_address = "1.0"
+

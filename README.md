@@ -5,3 +5,5 @@
 * [Bridge firewalling "bypass" using VLAN 0](VLAN0/README.md)
 
 * [Kubernetes MITM using LoadBalancer or ExternalIPs (CVE-2020-8554)](K8S_MITM_LoadBalancer_ExternalIPs/README.md)
+
+* [Metadata service MITM allows root privilege escalation (EKS / GKE)](Metadata_MITM_root_EKS_GKE/README.md)

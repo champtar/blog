@@ -9,3 +9,5 @@
 * [Metadata service MITM allows root privilege escalation (EKS / GKE)](Metadata_MITM_root_EKS_GKE/README.md)
 
 * [runc mount destinations can be swapped via symlink-exchange to cause mounts outside the rootfs (CVE-2021-30465)](runc-symlink-CVE-2021-30465/README.md)
+
+* [Layer 2 network security bypass using VLAN 0, LLC/SNAP headers and invalid length](VLAN0_LLC_SNAP/README.md)

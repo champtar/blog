@@ -1,5 +1,7 @@
 # Bridge firewalling "bypass" using VLAN 0
 
+See follow up article: [Layer 2 network security bypass using VLAN 0, LLC/SNAP headers and invalid length](../VLAN0_LLC_SNAP/README.md)
+
 L2 networks are insecure by default, vulnerable to ARP, DHCP, Router Advertisement spoofing to name a few.
 Over the years security mechanisms have been implemented to detect and or stop those attacks.
 As usual when you try to filter anything, you MUST use an allow list approach, else you risk letting some unwanted traffic go through.
